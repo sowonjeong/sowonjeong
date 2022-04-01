@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sowonjeong
-- 👀 I’m interested in learning new methods in Statistics, Machine Learning and Deep Learning
+- 👀 I’m interested in
 - 🌱 I’m currently a Master student in University of Chicago
 - 📫 How to reach me ...
 
