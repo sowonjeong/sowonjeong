@@ -1,13 +1,5 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=🙋🏻‍♀️%20Welcome%20to%20Sowon's%20Github&fontSize=55" />
- 
-<div align=center>
-  
-  <h1>🙋🏻‍♀️ Welcome to Sowon's Github</h1>
-  
-</div>
-    <img src="https://user-images.githubusercontent.com/97766158/194181664-91a696ad-be43-4eed-a935-9e9844cdfbb7.png" align="right" width="300px">
 
-<br>
 
 <div align=center>
 
@@ -15,18 +7,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-d14836?style=flat&logo=Linkedin&color=darkblue&logoColor=white&link=https://www.linkedin.com/in/sowonjeong/)](https://www.linkedin.com/in/sowonjeong/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsowonjeong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
-
-<br>
-
-<details>
-<summary>👩🏻‍🎓 Education</summary>
-<div markdown="1">
-  
-- Master's, The University of Chicago (2021.09-)
-- Bachelor's, Yonsei University (2014.03 ~ 2019.02)
-</div>
-</details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowonjeong)](https://github.com/anuraghazra/github-readme-stats)
 [![Sowon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowonjeong)](https://github.com/anuraghazra/github-readme-stats)
