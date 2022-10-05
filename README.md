@@ -5,7 +5,7 @@
   <h1>🙋🏻‍♀️ Welcome to Sowon's Github</h1>
   
 </div>
-  <img src="https://user-images.githubusercontent.com/97766158/194181664-91a696ad-be43-4eed-a935-9e9844cdfbb7.png" align="right" width="300px">
+    <img src="https://user-images.githubusercontent.com/97766158/194181664-91a696ad-be43-4eed-a935-9e9844cdfbb7.png" align="right" width="300px">
 
 <br>
 
