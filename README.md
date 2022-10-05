@@ -3,8 +3,7 @@
   <h1>Welcome to Sowon's Github</h1>
   
 </div>
-
-<img src="https://user-images.githubusercontent.com/97766158/194180464-18cfcee8-3336-47ff-b6f2-0293e0e05b4b.png" align="right" width="300px">
+<img src="https://user-images.githubusercontent.com/97766158/194180741-a7dfddcf-f096-45c5-bc09-cd6fb6f8991a.png" align="right" width="300px">
 
 <br>
 
