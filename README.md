@@ -4,7 +4,7 @@
   
 </div>
 
-<img src="https://github.com/sowonjeong/image/blob/4c23bc1de86e07600adf9327b35a0dfbf2461c03/IMG_5898.HEIC raw=true" align="right" width="300px">
+<img src="https://github.com/sowonjeong/sowonjeong/blob/9c1044dd3c4a2442277fb5f228f6d872fb833c65/.github/images/IMG_5898.HEIC" align="right" width="300px">
 
 <br>
 
