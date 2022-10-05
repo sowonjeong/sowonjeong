@@ -1,6 +1,6 @@
 <div align=center>
   
-  <h1>🏻‍♀️🙋Welcome to Sowon's Github</h1>
+  <h1>🙋🏻‍♀️ Welcome to Sowon's Github</h1>
   
 </div>
 <img src="https://user-images.githubusercontent.com/97766158/194180741-a7dfddcf-f096-45c5-bc09-cd6fb6f8991a.png" align="right" width="300px">
